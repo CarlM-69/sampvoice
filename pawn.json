@@ -7,7 +7,7 @@
 		{
 			"name": "sampvoice.so",
 			"platform": "linux"
-		}
+		},
 		{
 			"name": "sampvoice.dll",
 			"platform": "windows"
