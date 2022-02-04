@@ -1,15 +1,13 @@
 # sampvoice
 
-[![sampctl](https://img.shields.io/badge/sampctl-sampvoice-2f2f2f.svg?style=for-the-badge)](https://github.com/fl0w3rs/sampvoice)
-
-[Original repository](https://github.com/CyberMor/sampvoice)
+[![sampctl](https://img.shields.io/badge/sampctl-sampvoice-2f2f2f.svg?style=for-the-badge)](https://github.com/CarlM-69/sampvoice)
 
 ## Installation
 
 Simply install to your project:
 
 ```bash
-sampctl package install fl0w3rs/sampvoice
+sampctl package install CarlM-69/sampvoice:v3.0
 ```
 
 Include in your code and begin using the library:
